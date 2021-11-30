@@ -1,4 +1,4 @@
-/*Sum of prod in an array*/
+/*product of ele in an array*/
 
 #include<iostream>
 using namespace std;
