@@ -15,7 +15,7 @@ int main(){
         cin>>arr[i];
     }
 
-    //computing sum of ele
+    //computing mul of ele
     int mul=1;
     for(i=0;i<n;i++){
         mul*=arr[i];
