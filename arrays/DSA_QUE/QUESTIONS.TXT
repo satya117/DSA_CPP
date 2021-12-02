@@ -1,3 +1,5 @@
 1) union of two sorted arrays
 2) intersection of two sorted arrays
-3) Missing number in an array - [1...n] range(1,n) where no duplicates are present 
+3) Missing number in an array - [1...n] range(1,n) where no duplicates are present (using sum of n natural numbers)
+4) Single Missing ele in an array using xor method - xor(n natural number) xor xor(numbers in an array)
+
