@@ -4,3 +4,4 @@
 4) Single Missing ele in an array using xor method - xor(n natural number) xor xor(numbers in an array)
 5) Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo(using 3 pointers l=0,h=n-1,mid=0 and taking 1 as mid and sorting accordingly)
 6)Move all the negative elements to one side of the array
+7)rev an array 
