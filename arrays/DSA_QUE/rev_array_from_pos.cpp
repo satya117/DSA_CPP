@@ -1,3 +1,5 @@
+/*Q) Given an array/list 'ARR' of integers and a position ‘M’. You have to reverse the array from that position.*/
+
 #include <iostream>
 #include<vector>
 #include<algorithm>
